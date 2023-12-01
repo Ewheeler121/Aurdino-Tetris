@@ -7,6 +7,7 @@ This document describes the setup and programming of a Tetris game using an Ardu
 1. Arduino Uno (or compatible microcontroller)
 2. Adafruit 16x32 RGB LED matrix panel
 3. Breadboard
+4. Potentiometer
 4. Pushbuttons (4)
 5. Jumper wires
 6. Resistor 10k Ohm (4, for pull-down resistors)
