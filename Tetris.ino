@@ -37,5 +37,5 @@ void loop() {
         }
     }
     
-    screen->drawPixel(0, 0, Color::RED);    
+    screen->drawPixel(0, 0, Color::RED);
 }
